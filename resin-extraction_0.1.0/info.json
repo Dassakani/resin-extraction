@@ -1,0 +1,11 @@
+{
+    "name": "resin-extraction",
+    "version": "0.1.0",
+    "title": "Resin Extraction",
+    "author": "Erin",
+    "contact": "",
+    "homepage": "",
+    "factorio_version": "0.16",
+    "dependencies": ["base >= 0.16"],
+    "description": "This mod adds the ability to turn wood into light oil."
+}
